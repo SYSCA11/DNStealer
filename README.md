@@ -18,10 +18,10 @@ Warning: please dont use for anything bad<br>
 Warning: on-going project<br>
 
 Features:␣␣
-Basic DNS records: Complete␣␣
-Enum Subdomains:   Complete␣␣
-Enum TLD:          Complete␣␣
-check DKIM: ␣␣
-check DMARC:␣␣
-check spf: ␣␣
-Phish Scale:   ␣␣
+Basic DNS records: Complete<br>
+Enum Subdomains:   Complete<br>
+Enum TLD:          Complete<br>
+check DKIM: <br>
+check DMARC:<br>
+check spf: <br>
+Phish Scale:<br>
