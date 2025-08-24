@@ -14,8 +14,8 @@ If the domain is available it will be green if the domain is taken it will be re
 
 <img width="431" height="93" alt="Screenshot 2025-08-23 195334" src="https://github.com/user-attachments/assets/e062fb02-6fb5-4062-9340-8d2595792dd3" />
 
-Warning: please dont use for anything bad␣␣
-Warning: on-going project␣␣
+Warning: please dont use for anything bad<br>
+Warning: on-going project<br>
 
 Features:␣␣
 Basic DNS records: Complete␣␣
