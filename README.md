@@ -17,7 +17,7 @@ If the domain is available it will be green if the domain is taken it will be re
 Warning: please dont use for anything bad<br>
 Warning: on-going project<br>
 
-Features:␣␣
+Features:<br>
 Basic DNS records: Complete<br>
 Enum Subdomains:   Complete<br>
 Enum TLD:          Complete<br>
